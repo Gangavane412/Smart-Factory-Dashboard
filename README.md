@@ -73,7 +73,7 @@ pages here.</a>
 
 | Free Version                                                                                                       | PRO Version                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
+| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI PRO](#) |
 
 ### Figma Version
 
@@ -103,8 +103,3 @@ new people that already use Horizon UI!
 
 💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
 
-### Copyright and license
-
-⭐️ [Copyright 2023 Simmmple ](https://www.simmmple.com/?ref=readme-horizon)
-
-📄 [Horizon UI License](https://www.simmmple.com/licenses?ref=readme-horizon)
